@@ -3,7 +3,7 @@
 
 # Hi there, I’m Abdul Rafay
 
-### **I'm a Web Developer, Application Developer, Software Engineer.**
+### **I'm a  Software Engineer, Web Developer & Application Designer.**
 
 - ⚒️ I build websites, design application for different purpose. 
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
