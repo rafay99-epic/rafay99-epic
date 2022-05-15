@@ -18,8 +18,13 @@ Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿
 **Contact me to get in touch now!**  
 📫 Email: 99marafay@gmail.com
 
-**Social Media**
+### Connect with me:
 
+[![website](./img/twitter-dark.svg)](https://twitter.com/abdul_rafay99#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abdul-rafay-0ab626197r#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-dark.svg)](https://instagram.com/abdul_rafay99#gh-dark-mode-only)
 
 
 ### Top Projects:
