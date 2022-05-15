@@ -5,13 +5,11 @@
 ### **I’m Abdul Rafay**
 ### **a Web Developer, Application Developer, IT Consultant.**
 
-⚒️ I build websites, design application for different people. 
-
-💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
-
-📖 I’m learning about Linux Server, Machine Learning and a die heart Linux User. My vision to make all software accessible to everyone.  
-
-👀 Check out my some of my running project on my GitHub pages and give some feedback. 
+- ⚒️ I build websites, design application for different people. 
+- 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
+- 🌱 I’m currently learning everything 🤣
+- 📖 I’m learning about Linux Server, Machine Learning and a die heart Linux User. My vision to make all software accessible to everyone.  
+- 👀 Check out my some of my running project on my GitHub pages and give some feedback. 
 
 Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””
 
