@@ -58,8 +58,7 @@ Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿
 
 ### Here are the statistics on GitHub:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/apiusername=rafay99-epic&theme=dark)
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafay99-epic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafay99-epic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
 
 
