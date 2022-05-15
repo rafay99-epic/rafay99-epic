@@ -3,9 +3,9 @@
 
 # Hi there, I’m Abdul Rafay
 
-### **I'm a Web Developer, Application Developer, IT Consultant.**
+### **I'm a Web Developer, Application Developer, Software Engineer.**
 
-- ⚒️ I build websites, design application for different people. 
+- ⚒️ I build websites, design application for different purpose. 
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
 - 🌱 I’m currently learning everything 🤣
 - 📖 I’m learning about Linux Server, Machine Learning and a die heart Linux User. My vision to make all software accessible to everyone.  
