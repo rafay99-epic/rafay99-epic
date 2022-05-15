@@ -18,6 +18,10 @@ Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿
 **Contact me to get in touch now!**  
 📫 Email: 99marafay@gmail.com
 
+<br>
+<br>
+
+---
 ### Connect with me:
 
 [![website](./img/twitter-dark.svg)](https://twitter.com/abdul_rafay99#gh-dark-mode-only)
@@ -26,6 +30,10 @@ Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://instagram.com/abdul_rafay99#gh-dark-mode-only)
 
+<br>
+<br>
+
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
