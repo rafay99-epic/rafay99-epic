@@ -1,9 +1,9 @@
 ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png)
 
 
-### **Hi 👋 there!!**
-### **I’m Abdul Rafay**
-### **a Web Developer, Application Developer, IT Consultant.**
+# Hi there, I’m Abdul Rafay
+
+### **I'm a Web Developer, Application Developer, IT Consultant.**
 
 - ⚒️ I build websites, design application for different people. 
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
