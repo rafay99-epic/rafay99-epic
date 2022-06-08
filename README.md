@@ -7,7 +7,7 @@
 
 - ⚒️ I build websites, design application for different purpose. 
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 Currently learning coding and ways of life...
 - 📖 I’m learning about Linux Server, Machine Learning and a die heart Linux User. My vision to make all software accessible to everyone.  
 - 👀 Check out my some of my running project on my GitHub pages and give some feedback. 
 
