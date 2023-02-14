@@ -1,5 +1,5 @@
-<!-- ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png) -->
-![image](/img/My%20project2.png)
+![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png)
+<!-- ![image](/img/My%20project2.png) -->
 
 # 👋Hi there, I’m Abdul Rafay
 
