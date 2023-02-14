@@ -1,20 +1,23 @@
-![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png)
+<!-- ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png) -->
+![image](/img/My%20project2.png)
 
+# 👋Hi there, I’m Abdul Rafay
 
-# Hi there, I’m Abdul Rafay
+### **I'm a Full Stack Developer & Machine Learning Engineer.**
 
-### **I'm a  Software Engineer, Web Developer & Application Designer.**
-
-- ⚒️ I build websites, design application for different purpose. 
+- ⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
-- 🌱 Currently learning coding and ways of life...
-- 📖 I’m learning about Linux Server, Machine Learning and a die heart Linux User. My vision to make all software accessible to everyone.  
-- 👀 Check out my some of my running project on my GitHub pages and give some feedback. 
+- 🌱 I'm honing all my skills: learning machine learning, web development, and living my life.
+- 📖 To be the best in my field, I'm learning algorithms and the most recent Web technologies. 
+- 👀 Check out my [blogs](https://rafayblogs.tech) and my running projects on [Github](https://github.com/rafay99-epic) and give me your feedback. See you next time!❤️
 
-Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””
+---
+**Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””**
 
 **Contact me to get in touch now!**  
-📫 Email: 99marafay@gmail.com
+📫 [Email](mailto:99marafay@gmail.com) 
+
+📝 [Blog Website](https://rafayblogs.tech)
 
 ---
 ### Connect with me:
@@ -37,22 +40,20 @@ Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<!-- <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" /> -->
-<!-- <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" /> -->
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br>
-
 ---
 
 ### Top Projects:
 1. [Parking Assistant System](https://github.com/rafay99-epic/Parking-Assistant)
-2. [Alacritty  Terminal](https://github.com/rafay99-epic/Alacritty-Terminal)
-3. [Kitty Terminal](https://github.com/rafay99-epic/Kitty-Terminal.git)
+2. [Blog Website](https://github.com/rafay99-epic/Blog-website)
+3. [Personal Portfolio](https://github.com/rafay99-epic/Portfolio-Website)
 4. [Gnome-Setup](https://github.com/rafay99-epic/Gnome-setup)
-5. [Python Machine Learning](https://github.com/rafay99-epic/Python-Machine-Learning)
-6. [Unity Games](https://github.com/rafay99-epic/Unity-Games)
-7. [Application Installer](https://github.com/rafay99-epic/Application-Installer)
+5. [Development Set](https://github.com/1-Power/Development-Setup)
+6. [1-Power Website](https://github.com/1-Power/1-Power-website)
+7. [Shafiq Law Chamber(SLC) Website](https://github.com/1-Power/SLC)
+
 <br>
 
 ---
@@ -60,21 +61,3 @@ Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafay99-epic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
-
-
-
-
-
-
-
-
-<!-- 
-- 👋 Hi, I’m @rafay99-epic
-- 👀 I’m interested in Software Development and Learning Machine Learning
-- 🌱 I’m currently learning Machine Learning and Python programming Language
-- 📫 You can reach me using my email which is; 99marafay@gmail.com  -->
-
-<!---
-rafay99-epic/rafay99-epic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
