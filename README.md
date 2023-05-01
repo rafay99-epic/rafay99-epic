@@ -48,74 +48,48 @@
 ## Top Projects:
 ### IOT Projects
 1. [Parking Assistant System](https://github.com/rafay99-epic/Parking-Assistant)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/rafay99-epic/Parking-Assistant)
-  - To read about the project, please click on the following link:
-      - [Link](https://future-insight.blog/Project/Parking-Assistant/)
-
+  <!-- - To view the code, please click on the following link: -->
+  <!--     - [Link](https://github.com/rafay99-epic/Parking-Assistant) -->
+  <!-- - To read about the project, please click on the following link: -->
+  <!--     - [Link](https://future-insight.blog/Project/Parking-Assistant/) -->
+  <!---->
 ### Web Based Projects
 1. [Future Insight](https://github.com/rafay99-epic/Future-Insight)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/rafay99-epic/Future-Insight)
-  - To read about the project, please click on the following link:
-      - [Link](https://future-insight.blog/)
-
+  <!-- - To view the code, please click on the following link: -->
+  <!--     - [Link](https://github.com/rafay99-epic/Future-Insight) -->
+  <!-- - To read about the project, please click on the following link: -->
+  <!--     - [Link](https://future-insight.blog/) -->
+  <!---->
 2. [Personal Portfolio](https://github.com/rafay99-epic/Portfolio-Website)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/rafay99-epic/Personal-Website)
-  - To read about the project, please click on the following link:
-      - [Link](https://future-insight.blog/Project/portifilo/)
-
+  <!-- - To view the code, please click on the following link: -->
+  <!--     - [Link](https://github.com/rafay99-epic/Personal-Website) -->
+  <!-- - To read about the project, please click on the following link: -->
+  <!--     - [Link](https://future-insight.blog/Project/portifilo/) -->
+  <!---->
 3. [1-Power Website](https://github.com/1-Power/1-Power-website)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/1-Power/1-Power-website)
-  - To read about the project, please click on the following link:
-      - [Link]()
-
+  <!-- - To view the code, please click on the following link: -->
+  <!--     - [Link](https://github.com/1-Power/1-Power-website) -->
+  <!-- - To read about the project, please click on the following link: -->
+  <!--     - [Link]() -->
 4. [Shafiq Law Chamber(SLC) Website](https://github.com/1-Power/SLC)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/1-Power/Shafiq-Law-Chamber)
-  - To read about the project, please click on the following link:
-      - [Link]()
-
+  <!-- - To view the code, please click on the following link: -->
+  <!--     - [Link](https://github.com/1-Power/Shafiq-Law-Chamber) -->
+  <!-- - To read about the project, please click on the following link: -->
+  <!--     - [Link]() -->
 5. [URLHunter](https://github.com/rafay99-epic/URLHunter)
-  - To view the code, please click on the following link:
-      - [Link]()
-  - To read about the project, please click on the following link:
-      - [Link](https://future-insight.blog/Project/url-hunter/)
-
+  <!-- - To view the code, please click on the following link: -->
+  <!--     - [Link]() -->
+  <!-- - To read about the project, please click on the following link: -->
+  <!--     - [Link](https://future-insight.blog/Project/url-hunter/) -->
 
 ### Bash Shell Projects
 1. [DevBox](https://github.com/rafay99-epic/DevBox)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/rafay99-epic/DevBox)
-  - To read about the project, please click on the following link:
-      - [Link](https://future-insight.blog/Project/DevBox/)
-
 2. [Development Set](https://github.com/1-Power/Development-Setup)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/1-Power/Development-Setup)
-  - To read about the project, please click on the following link:
-      - [Link]()
 
 ### Machine Learning Projects
 1. [Detect False Data Injection](https://github.com/rafay99-epic/Detect-FDIA-SVM)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/rafay99-epic/Detect-FDIA-SVM)
-  - To read about the project, please click on the following link:
-      - [Link](https://future-insight.blog/Project/ev-cyber-detection/)
-
 2. [Medical System](https://github.com/rafay99-epic/MEDDOC)
-  - To view the code, please click on the following link:
-      - [Link](https://github.com/rafay99-epic/MEDDOC)
-  - To read about the project, please click on the following link:
-      - [Link]()
-
 3. [FilmFuse](https://github.com/rafay99-epic/FilmFuse)
-  - To view the code, please click on the following link:
-      - [Link]()
-  - To read about the project, please click on the following link:
-      - [Link]()
 
 <br>
 
