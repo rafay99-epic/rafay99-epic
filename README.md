@@ -11,7 +11,6 @@
 - 📖 To be the best in my field, I'm learning algorithms and the most recent Web technologies. 
 - 👀 Check out my [blogs](https://rafayblogs.tech) and my running projects on [Github](https://github.com/rafay99-epic) and give me your feedback. See you next time!❤️
 
----
 **Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””**
 
 **Contact me to get in touch now!**  
@@ -22,13 +21,19 @@
 ---
 ## Connect with me:
 
-[![website](./img/twitter-dark.svg)](https://twitter.com/abdul_rafay99#gh-dark-mode-only)
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/abdul_rafay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abdul_rafay99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-rafay1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay1999/" height="30" width="40" /></a>
+</p>
+
+
+<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/abdul_rafay99#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abdul-rafay-0ab626197r#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/abdul_rafay99#gh-dark-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/abdul_rafay99#gh-dark-mode-only) -->
 
----
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
