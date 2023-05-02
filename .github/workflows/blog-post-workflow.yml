@@ -14,6 +14,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
       - name: Pull Blog Post from Future Insight
-        uses: gautamkrishnar/blog-post-workflow@main
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://future-insight.blog"
