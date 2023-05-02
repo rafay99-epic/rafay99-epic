@@ -3,7 +3,7 @@
 
 # 👋Hi there, I’m Abdul Rafay
 
-### **I'm a Full Stack Developer & Machine Learning Engineer.**
+## **I'm a Full Stack Developer & Machine Learning Engineer.**
 
 - ⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
@@ -18,25 +18,17 @@
 
 📝 [Blog Website](https://future-insight.blog)
 
----
+
 ## Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/abdul_rafay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abdul_rafay99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdul-rafay1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay1999/" height="30" width="40" /></a>
-<a href="https://instagram.com/abdul_rafay99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdul_rafay99/" height="30" width="40" /></a>
-<a href="https://medium.com/@99marafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@99marafay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@future-insight99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@future-insight99" height="30" width="40" /></a>
-<a href="https://future-insight.blog" target="blank"><img align="center" src="./img/blogging.png" alt="Future Insight" height="30" width="40" /></a>
-
+  <a href="https://twitter.com/abdul_rafay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abdul_rafay99" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abdul-rafay1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay1999/" height="30" width="40" /></a>
+  <a href="https://instagram.com/abdul_rafay99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdul_rafay99/" height="30" width="40" /></a>
+  <a href="https://medium.com/@99marafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@99marafay" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@future-insight99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@future-insight99" height="30" width="40" /></a>
+  <a href="https://future-insight.blog" target="blank"><img align="center" src="./img/blogging.png" alt="Future Insight" height="30" width="40" /></a>
 </p>
-
-
-<!-- [![website](./img/twitter-dark.svg)](https://twitter.com/abdul_rafay99#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/abdul-rafay-0ab626197r#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-dark.svg)](https://instagram.com/abdul_rafay99#gh-dark-mode-only) -->
 
 
 ## Languages and Tools:
@@ -53,45 +45,17 @@
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 
 <br>
----
+
 
 ## Top Projects:
 ### IOT Projects
 1. [Parking Assistant System](https://github.com/rafay99-epic/Parking-Assistant)
-  <!-- - To view the code, please click on the following link: -->
-  <!--     - [Link](https://github.com/rafay99-epic/Parking-Assistant) -->
-  <!-- - To read about the project, please click on the following link: -->
-  <!--     - [Link](https://future-insight.blog/Project/Parking-Assistant/) -->
-  <!---->
 ### Web Based Projects
 1. [Future Insight](https://github.com/rafay99-epic/Future-Insight)
-  <!-- - To view the code, please click on the following link: -->
-  <!--     - [Link](https://github.com/rafay99-epic/Future-Insight) -->
-  <!-- - To read about the project, please click on the following link: -->
-  <!--     - [Link](https://future-insight.blog/) -->
-  <!---->
 2. [Personal Portfolio](https://github.com/rafay99-epic/Portfolio-Website)
-  <!-- - To view the code, please click on the following link: -->
-  <!--     - [Link](https://github.com/rafay99-epic/Personal-Website) -->
-  <!-- - To read about the project, please click on the following link: -->
-  <!--     - [Link](https://future-insight.blog/Project/portifilo/) -->
-  <!---->
 3. [1-Power Website](https://github.com/1-Power/1-Power-website)
-  <!-- - To view the code, please click on the following link: -->
-  <!--     - [Link](https://github.com/1-Power/1-Power-website) -->
-  <!-- - To read about the project, please click on the following link: -->
-  <!--     - [Link]() -->
 4. [Shafiq Law Chamber(SLC) Website](https://github.com/1-Power/SLC)
-  <!-- - To view the code, please click on the following link: -->
-  <!--     - [Link](https://github.com/1-Power/Shafiq-Law-Chamber) -->
-  <!-- - To read about the project, please click on the following link: -->
-  <!--     - [Link]() -->
 5. [URLHunter](https://github.com/rafay99-epic/URLHunter)
-  <!-- - To view the code, please click on the following link: -->
-  <!--     - [Link]() -->
-  <!-- - To read about the project, please click on the following link: -->
-  <!--     - [Link](https://future-insight.blog/Project/url-hunter/) -->
-
 ### Bash Shell Projects
 1. [DevBox](https://github.com/rafay99-epic/DevBox)
 2. [Development Set](https://github.com/1-Power/Development-Setup)
@@ -103,7 +67,7 @@
 
 <br>
 
----
+
 
 ## GitHub Stats 📈
 These are the stats of my GitHub account. I'm a very active user, and I contribute to the open-source community. I'm always learning new things, and I'm always trying to improve my skills. I'm also a very active user on GitHub. I'm always learning new things, and I'm always trying to improve my skills.
@@ -112,7 +76,6 @@ These are the stats of my GitHub account. I'm a very active user, and I contribu
 <div>
     <img  src="http://github-stats-flame-one.vercel.app/api/cards/profile-details?username=rafay99-epic&theme=onedark"  alt="profile-detail"  style="width: auto; height: auto;">
 </div>
-<!-- ![](http://github-stats-flame-one.vercel.app/api/cards/profile-details?username=rafay99-epic&theme=onedark) -->
 
 ### Commits and Contributions:
 <div>
@@ -131,9 +94,3 @@ These are the stats of my GitHub account. I'm a very active user, and I contribu
 <div> 
     <img src="http://github-stats-flame-one.vercel.app/api/cards/productive-time?username=rafay99-epic&theme=onedark&utcOffset=8" alt="Time Card" style="width: 1500px; height: 300px;">
 </div>
-
-
-<!-- ### Here are the statistics on GitHub: -->
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafay99-epic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> -->
-
