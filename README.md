@@ -3,7 +3,7 @@
 
 # 👋Hi there, I’m Abdul Rafay
 
-## **I'm a Full Stack Developer & Machine Learning Engineer.**
+### **I'm a Full Stack Developer & Machine Learning Engineer.**
 
 - ⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
@@ -46,8 +46,14 @@
 
 <br>
 
+## Latest Blog Post
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
 
-## Top Projects:
+<!-- BLOG-POST-LIST:END -->
+
+
+## Top Projects
 ### IOT Projects
 1. [Parking Assistant System](https://github.com/rafay99-epic/Parking-Assistant)
 ### Web Based Projects
