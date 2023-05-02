@@ -46,10 +46,9 @@
 
 <br>
 
-## Latest Blog Post
-# Blog posts
+<!-- ## Latest Blog Post -->
+<!-- # Blog posts -->
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 
