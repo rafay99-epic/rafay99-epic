@@ -94,7 +94,36 @@
 <br>
 
 ---
-### Here are the statistics on GitHub:
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafay99-epic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
+## GitHub Stats 📈
+These are the stats of my GitHub account. I'm a very active user, and I contribute to the open-source community. I'm always learning new things, and I'm always trying to improve my skills. I'm also a very active user on GitHub. I'm always learning new things, and I'm always trying to improve my skills.
+
+### Profile Detail
+<div>
+    <img  src="http://github-stats-flame-one.vercel.app/api/cards/profile-details?username=rafay99-epic&theme=onedark"  alt="profile-detail"  style="width: auto; height: auto;">
+</div>
+<!-- ![](http://github-stats-flame-one.vercel.app/api/cards/profile-details?username=rafay99-epic&theme=onedark) -->
+
+### Commits and Contributions:
+<div>
+    <img src="http://github-stats-flame-one.vercel.app/api/cards/stats?username=rafay99-epic&theme=onedark" alt="commit & contribute"  style="width: 500px; height: 300px;">
+</div>
+
+
+### Most Used Languages 📊
+
+<div style="display: flex; justify-content: center;">
+  <img src="http://github-stats-flame-one.vercel.app/api/cards/repos-per-language?username=rafay99-epic&theme=onedark" alt="lang commits in repo" style="display: inline-block; width: 50%; height: auto;">
+  <img src="http://github-stats-flame-one.vercel.app/api/cards/most-commit-language?username=rafay99-epic&theme=onedark" alt="Top Language by commits" style="display: inline-block; width: 50%; height: auto; margin-left: 20px;">
+</div>
+
+### Time Card 🕒
+<div> 
+    <img src="http://github-stats-flame-one.vercel.app/api/cards/productive-time?username=rafay99-epic&theme=onedark&utcOffset=8" alt="Time Card" style="width: 1500px; height: 300px;">
+</div>
+
+
+<!-- ### Here are the statistics on GitHub: -->
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafay99-epic&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" /> -->
 
