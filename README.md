@@ -22,8 +22,13 @@
 ## Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/abdul_rafay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abdul_rafay99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-rafay1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay1999/" height="30" width="40" /></a>
+<a href="https://twitter.com/abdul_rafay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abdul_rafay99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-rafay1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-rafay1999/" height="30" width="40" /></a>
+<a href="https://instagram.com/abdul_rafay99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abdul_rafay99/" height="30" width="40" /></a>
+<a href="https://medium.com/@99marafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@99marafay" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@future-insight99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@future-insight99" height="30" width="40" /></a>
+<a href="https://future-insight.blog" target="blank"><img align="center" src="./img/blogging.png" alt="Future Insight" height="30" width="40" /></a>
+
 </p>
 
 
