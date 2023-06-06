@@ -1,29 +1,23 @@
-
-<link href="https://raw.githubusercontent.com/rafay99-epic/rafay99-epic/Development-Brach/style.css">
-
+<!-- Intro Image -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/abdul-rafay1999/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</p>
+
+<br>
+<!-- Socail Badges -->
+<div id="badges" style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="display: block; margin: auto;">
   </a>
-  <a href="https://future-insight.blog">
-    <img src="https://img.shields.io/badge/Blog%20Website-green?style=for-the-badge" alt="Blog Website Badge"/>
+  <a href="https://future-insight.blog" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Blog%20Website-orange?style=for-the-badge" alt="Blog Website Badge" style="display: block; margin: auto;">
   </a>
   <a href="https://twitter.com/abdul_rafay99">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" style="display: block; margin: auto;">
   </a>
 </div>
 
-</p>
 
-
-
-
-
-
-<!-- ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png) -->
-<!-- ![image](/img/My%20project2.png) -->
 <h3 align="center">
     Hi There
     <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
@@ -32,27 +26,30 @@
          width="45" />
     I'm Abdul Rafay!
 </h3>
+<hr>
 
 
+<!-- Banner Image -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script> 
+
+<lottie-player src="https://lottie.host/7cd1ddbd-8371-49bd-a54f-c13b70d990a7/ImPkjXjkQ1.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></lottie-player>
 
 
-### **I'm a Full Stack Developer & Machine Learning Engineer.**
+<h3>About me</h3>
 
+**I'm a Full Stack Developer & Machine Learning Engineer.**
 - ⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.
-- 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
+- 💼 I have 2 years of experience in designing products, building websites, and contributing code to the open-source community.
 - 🌱 I'm honing all my skills: learning machine learning, web development, and living my life.
-- 📖 To be the best in my field, I'm learning algorithms and the most recent Web technologies. 
-- 👀 Check out my [blogs](https://future-insight.blog) and my running projects on [Github](https://github.com/rafay99-epic) and give me your feedback. See you next time!❤️
-
-**Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””**
-
-**Contact me to get in touch now!**  
-📫 [Email](mailto:99marafay@gmail.com) 
-
-📝 [Blog Website](https://future-insight.blog)
+- 📖 To be the best in my field, I'm learning algorithms and the most recent web technologies.
+- 👀 Check out my [blogs](https://future-insight.blog) and my running projects on [GitHub](https://github.com/rafay99-epic) and give me your feedback ❤️
 
 
-## Connect with me:
+
+
+
+
+<!-- ## Connect with me:
 
 <p align="left">
   <a href="https://twitter.com/abdul_rafay99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/abdul_rafay99" height="30" width="40" /></a>
@@ -61,7 +58,7 @@
   <a href="https://medium.com/@99marafay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@99marafay" height="30" width="40" /></a>
   <a href="https://www.youtube.com/@future-insight99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@future-insight99" height="30" width="40" /></a>
   <a href="https://future-insight.blog" target="blank"><img align="center" src="./img/blogging.png" alt="Future Insight" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 ## Languages and Tools:
@@ -79,12 +76,9 @@
 
 <br>
 
-<!-- ## Latest Blog Post -->
-<!-- # Blog posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 
+<!-- 
 ## Top Projects
 ### IOT Projects
 1. [Parking Assistant System](https://github.com/rafay99-epic/Parking-Assistant)
@@ -101,13 +95,13 @@
 ### Machine Learning Projects
 1. [Detect False Data Injection](https://github.com/rafay99-epic/Detect-FDIA-SVM)
 2. [Medical System](https://github.com/rafay99-epic/MEDDOC)
-3. [FilmFuse](https://github.com/rafay99-epic/FilmFuse)
+3. [FilmFuse](https://github.com/rafay99-epic/FilmFuse) -->
 
 <br>
 
 
 
-## GitHub Stats 📈
+<!-- ## GitHub Stats 📈
 These are the stats of my GitHub account. I'm a very active user, and I contribute to the open-source community. I'm always learning new things, and I'm always trying to improve my skills. I'm also a very active user on GitHub. I'm always learning new things, and I'm always trying to improve my skills.
 
 ### Profile Detail
@@ -131,4 +125,4 @@ These are the stats of my GitHub account. I'm a very active user, and I contribu
 ### Time Card 🕒
 <div> 
     <img src="http://github-stats-flame-one.vercel.app/api/cards/productive-time?username=rafay99-epic&theme=onedark&utcOffset=8" alt="Time Card" style="width: 1500px; height: 300px;">
-</div>
+</div> -->
