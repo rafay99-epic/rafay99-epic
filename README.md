@@ -6,22 +6,19 @@
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- <a href="https://twitter.com/abdul_rafay99">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social" alt="Twitter Badge">
-  </a> -->
-  
-  <a href="https://twitter.com/abdul_rafay99" style="text-decoration: none;">
-    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=for-the-badge&amp;label=Follow&amp;color=1DA1F2&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge">
+  <a href="https://twitter.com/abdul_rafay99" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://img.shields.io/twitter/follow/abdul_rafay99?style=for-the-badge&amp;label=Follow&amp;color=1DA1F2&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge">
   </a>
   
-  <a href="https://future-insight.blog">
-    <img src="https://img.shields.io/badge/Visit-Future-Insight-orange?style=for-the-badge" alt="Blog Website Badge">
+  <a href="https://future-insight.blog" style="text-decoration: none; margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Visit-Future%20Insight-orange?style=for-the-badge" alt="Blog Website Badge">
   </a>
   
-  <a href="https://www.linkedin.com/in/abdul-rafay1999/">
+  <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge">
   </a>
 </div>
+
 
 
 
