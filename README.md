@@ -4,6 +4,23 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
 </p>
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://twitter.com/abdul_rafay99">
+    <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=social" alt="Twitter Badge">
+  </a>
+  
+  <a href="https://future-insight.blog">
+    <img src="https://img.shields.io/badge/Visit-YourBlogWebsite-orange?style=for-the-badge" alt="Blog Website Badge">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/abdul-rafay1999/">
+    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge">
+  </a>
+</div>
+
+
+
 <!-- ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png) -->
 <!-- ![image](/img/My%20project2.png) -->
 <h3 align="center">
@@ -14,6 +31,8 @@
          width="45" />
     I'm Abdul Rafay!
 </h3>
+
+
 
 
 ### **I'm a Full Stack Developer & Machine Learning Engineer.**
