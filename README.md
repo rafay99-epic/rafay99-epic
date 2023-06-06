@@ -1,7 +1,36 @@
-![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png)
+<style>
+  .wave {
+  animation-name: wave-animation;  /* Name of @keyframes element below */
+  animation-duration: .75s;  /* Wave speed */
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused;
+  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
+  display: inline-block;
+  font-size: 8rem;
+}
+
+.wave:hover {
+  animation-play-state: running; /* Play animation on mouse hover */
+}
+
+@keyframes wave-animation {
+  0% { transform: rotate( 0deg ) }
+  25% { transform: rotate( -10deg ) }
+  75% { transform: rotate( 12deg ) }
+  100% { transform: rotate( 0deg ) }
+}
+  </style>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
+</p>
+
+<!-- ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png) -->
 <!-- ![image](/img/My%20project2.png) -->
 
-# 👋Hi there, I’m Abdul Rafay
+
+<h1> <span class="wave">👋</span> Hi there, I’m Abdul Rafay</h1>
 
 ### **I'm a Full Stack Developer & Machine Learning Engineer.**
 
@@ -9,7 +38,7 @@
 - 💼 I have 2 years of experience in designing Products, building websites and contribute code to the open source community. 
 - 🌱 I'm honing all my skills: learning machine learning, web development, and living my life.
 - 📖 To be the best in my field, I'm learning algorithms and the most recent Web technologies. 
-- 👀 Check out my [blogs](https://rafayblogs.tech) and my running projects on [Github](https://github.com/rafay99-epic) and give me your feedback. See you next time!❤️
+- 👀 Check out my [blogs](https://future-insight.blog) and my running projects on [Github](https://github.com/rafay99-epic) and give me your feedback. See you next time!❤️
 
 **Do you have a project or need a Solution? Then (•̪●)=ε/̵͇̿̿/’̿’̿ ̿ ̿̿ ̿ ̿””**
 
