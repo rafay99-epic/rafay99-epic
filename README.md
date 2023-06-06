@@ -1,4 +1,6 @@
 
+<link href="">
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
 
@@ -6,31 +8,8 @@
 <!-- ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png) -->
 <!-- ![image](/img/My%20project2.png) -->
 <h1> <span class="wave">👋</span> Hi there, I’m Abdul Rafay</h1>
-<style>
-  .wave {
-  animation-name: wave-animation;  /* Name of @keyframes element below */
-  animation-duration: .75s;  /* Wave speed */
-  animation-iteration-count: infinite;
-  animation-timing-function: linear;
-  animation-play-state: paused;
-  transform-origin: 70% 70%;  /* Pivot from bottom-left palm */
-  display: inline-block;
-  font-size: 8rem;
-}
-
-.wave:hover {
-  animation-play-state: running; /* Play animation on mouse hover */
-}
-
-@keyframes wave-animation {
-  0% { transform: rotate( 0deg ) }
-  25% { transform: rotate( -10deg ) }
-  75% { transform: rotate( 12deg ) }
-  100% { transform: rotate( 0deg ) }
-}
-</style>
-
 </p>
+
 ### **I'm a Full Stack Developer & Machine Learning Engineer.**
 
 - ⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.
