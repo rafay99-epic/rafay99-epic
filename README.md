@@ -1,5 +1,5 @@
 
-<link href="https://github.com/rafay99-epic/rafay99-epic/blob/Development-Brach/style.css">
+<link href="https://raw.githubusercontent.com/rafay99-epic/rafay99-epic/Development-Brach/style.css">
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
