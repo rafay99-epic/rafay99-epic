@@ -3,11 +3,18 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
-
+</p>
 <!-- ![My project2](https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png) -->
 <!-- ![image](/img/My%20project2.png) -->
-<h1> <span class="wave">👋</span> Hi there, I’m Abdul Rafay</h1>
-</p>
+<h3 align="center">
+    Hi There
+    <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />
+    I'm Philip!
+</h3>
+
 
 ### **I'm a Full Stack Developer & Machine Learning Engineer.**
 
