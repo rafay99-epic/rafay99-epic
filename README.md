@@ -3,21 +3,19 @@
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/82662797/168483717-3d746709-6ae9-487a-bdd7-ebcb137ea919.png">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <a href="https://twitter.com/abdul_rafay99" style="text-decoration: none; margin-right: 10px;">
+      <img src="https://img.shields.io/twitter/follow/abdul_rafay99?style=for-the-badge&amp;label=Follow&amp;color=1DA1F2&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge">
+    </a>
+    <a href="https://future-insight.blog" style="text-decoration: none; margin-right: 10px;">
+      <img src="https://img.shields.io/badge/Visit-Future%20Insight-orange?style=for-the-badge" alt="Blog Website Badge">
+    </a>
+    <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 10px;">
+      <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge">
+    </a>
+  </div>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://twitter.com/abdul_rafay99" style="text-decoration: none; margin-right: 10px; display: flex; justify-content: center; align-items: center;" >
-    <img src="https://img.shields.io/twitter/follow/abdul_rafay99?style=for-the-badge&amp;label=Follow&amp;color=1DA1F2&amp;logo=twitter&amp;logoColor=white" alt="Twitter Badge">
-  </a>
-  
-  <a href="https://future-insight.blog" style="text-decoration: none; margin-right: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.shields.io/badge/Visit-Future%20Insight-orange?style=for-the-badge" alt="Blog Website Badge">
-  </a>
-  
-  <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 10px; display: flex; justify-content: center; align-items: center;">
-    <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge">
-  </a>
-</div>
 
 
 
