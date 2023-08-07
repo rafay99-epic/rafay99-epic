@@ -28,17 +28,30 @@
 </h1>
 
 <!-- Banner Image -->
-<p align="center"><img src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="600" height="600"  /></p>
+<p align="right"><img src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="600" height="600"  /></p>
 
-
+<p align="left">
 <h2>👨‍💻 &nbsp;About me</h2>
+
+<p><strong>I'm a Full Stack Developer & Machine Learning Engineer.</strong></p>
+<ul>
+    <li>⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.</li>
+    <li>💼 I have 2 years of experience in designing products, building websites, and contributing code to the open-source community.</li>
+    <li>🌱 I'm honing all my skills: learning machine learning, web development, and living my life.</li>
+    <li>📖 To be the best in my field, I'm learning algorithms and the most recent web technologies.</li>
+</ul>
+<p>👀 Check out my <a href="https://future-insight.blog">blogs</a> and my running projects on <a href="https://github.com/rafay99-epic">GitHub</a> and give me your feedback ❤️</p>
+</p>
+
+
+<!-- <h2>👨‍💻 &nbsp;About me</h2>
 
 **I'm a Full Stack Developer & Machine Learning Engineer.**
 - ⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.
 - 💼 I have 2 years of experience in designing products, building websites, and contributing code to the open-source community.
 - 🌱 I'm honing all my skills: learning machine learning, web development, and living my life.
 - 📖 To be the best in my field, I'm learning algorithms and the most recent web technologies.
-- 👀 Check out my [blogs](https://future-insight.blog) and my running projects on [GitHub](https://github.com/rafay99-epic) and give me your feedback ❤️
+- 👀 Check out my [blogs](https://future-insight.blog) and my running projects on [GitHub](https://github.com/rafay99-epic) and give me your feedback ❤️ -->
 
 <!--Tools & Language -->
 <h2 align="left">Languages and Tools:</h2>
