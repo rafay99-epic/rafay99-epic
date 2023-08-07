@@ -32,7 +32,7 @@
 <h2>👨‍💻 &nbsp;About me</h2>
 
 <!-- Banner Image -->
-<img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="470" height="470"/>
+<img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="450" height="430"/>
 
 <p align="left">
   <p><strong>I'm a Full Stack Developer & Machine Learning Engineer.</strong></p>
