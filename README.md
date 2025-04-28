@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/abdul-rafay1999/" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="display: block; margin: auto;">
   </a>
-  <a href="https://future-insight.blog" style="margin-right: 20px;">
+  <a href="https://rafay99.com" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Blog%20Website-orange?style=for-the-badge" alt="Blog Website Badge" style="display: block; margin: auto;">
   </a>
   <a href="https://twitter.com/abdul_rafay99">
@@ -44,7 +44,7 @@
   </ul>
   
   <p>
-    👀 Check out my <a href="https://future-insight.blog">blogs</a> and my running projects on <a href="https://github.com/rafay99-epic">GitHub</a> and give me your feedback ❤️
+    👀 Check out my <a href="https://rafay99.com">blogs</a> and my running projects on <a href="https://github.com/rafay99-epic">GitHub</a> and give me your feedback ❤️
   </p>
 
 
