@@ -64,10 +64,10 @@
 <h2>🔥 &nbsp; My GitHub Stats</h2>
 
 <h3>🚀 &nbsp; GitHub Commits</h3>
-![My GitHub Game](game.gif)
-<!-- <p align="center">
+
+<p align="center">
   <img src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/a9f7a33c-2e0f-4577-8d83-1ed0f7a94fe6">
-</p> -->
+</p>
 
 
 <h3>🏆 &nbsp; Github Trophies </h3> 
