@@ -30,50 +30,150 @@
 </h1>
 
 <h2>👨‍💻 &nbsp;About me</h2>
-
 <!-- Banner Image -->
-<img align="right" src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609" width="450" height="430"/>
+<img
+  align="right"
+  src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/df444639-2ba1-4040-9eb9-db28fa158609"
+  width="450"
+  height="430"
+  alt="Profile illustration"
+/>
+
+<p align="left" style="
+  font-family: system-ui, -apple-system, BlinkMacSystemFont,
+  'Segoe UI', Roboto, sans-serif;
+  line-height: 1.6;
+">
+
+  <strong>
+    I’m a Full‑Stack Software Engineer focused on building real products.
+  </strong>
+</p>
 
 <p align="left">
-  <p><strong>I'm a Full Stack Developer & Machine Learning Engineer.</strong></p>
-  <ul align="justify">
-      <li>⚒️ I build and design different websites for my clients. Not only that, I also train and test different machine learning algorithms to get the desired results.</li>
-      <li>💼 I have 2 years of experience in designing products, building websites, and contributing code to the open-source community.</li>
-      <li>🌱 I'm honing all my skills: learning machine learning, web development, and living my life.</li>
-      <li>📖 To be the best in my field, I'm learning algorithms and the most recent web technologies.</li>
-  </ul>
-  
-  <p>
-    👀 Check out my <a href="https://rafay99.com">blogs</a> and my running projects on <a href="https://github.com/rafay99-epic">GitHub</a> and give me your feedback ❤️
-  </p>
+  I design and develop production‑ready web and mobile applications with a
+  strong emphasis on clean architecture, performance, and long‑term
+  maintainability.
+</p>
 
+<p align="left">
+  My primary stack includes
+  <strong>
+    React, TypeScript, Next.js, Convex, React Native, and Flutter
+  </strong>.
+  I have <strong>4 years of hands‑on experience</strong> building applications,
+  shipping features, and contributing to real‑world projects.
+</p>
+
+<p align="left">
+  I learn best by building, breaking things, and iterating quickly. To stay
+  sharp, I continuously work on system design, algorithms, and modern web
+  technologies, aiming to write code that scales and lasts.
+</p>
+
+<p align="left">
+  Check out my
+  <a href="https://rafay99.com" target="_blank">blogs and experiments</a>
+  and explore my work on
+  <a href="https://github.com/rafay99-epic" target="_blank">GitHub</a>.
+  Feedback and thoughtful critique are always welcome.
+</p>
 
 <br><br><br>
 <br>
 <!--Tools & Language -->
 <h2 align="left">🧰 &nbsp; Languages and Tools:</h2>
-<p align="center">
+
+<div
+  align="left"
+  style="
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+  "
+>
+  <!-- Languages -->
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="TypeScript" height="34" src="https://skillicons.dev/icons?i=ts" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Python" height="34" src="https://skillicons.dev/icons?i=py" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Dart" height="34" src="https://skillicons.dev/icons?i=dart" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="C++" height="34" src="https://skillicons.dev/icons?i=cpp" />
+  </span>
+
+  <!-- Frontend / Mobile -->
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="React" height="34" src="https://skillicons.dev/icons?i=react" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Next.js" height="34" src="https://skillicons.dev/icons?i=nextjs" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="React Native" height="34" src="https://skillicons.dev/icons?i=react" title="React Native" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Flutter" height="34" src="https://skillicons.dev/icons?i=flutter" />
+  </span>
+
+  <!-- Backend -->
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Node.js" height="34" src="https://skillicons.dev/icons?i=nodejs" />
+  </span>
+
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Firebase" height="34" src="https://skillicons.dev/icons?i=firebase" />
+  </span>
+
+  <!-- Databases -->
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="PostgreSQL" height="34" src="https://skillicons.dev/icons?i=postgres" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="SQL" height="34" src="https://skillicons.dev/icons?i=postgres" title="SQL (via PostgreSQL)" />
+  </span>
+
+  <!-- Cloud / Deploy -->
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="AWS" height="34" src="https://skillicons.dev/icons?i=aws" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Vercel" height="34" src="https://skillicons.dev/icons?i=vercel" />
+  </span>
+
+  <!-- Tooling -->
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Neovim" height="34" src="https://skillicons.dev/icons?i=neovim" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Linux" height="34" src="https://skillicons.dev/icons?i=linux" />
+  </span>
+  <span style="display:inline-flex; padding:8px; border-radius:12px; background:#0d1117; border:1px solid #30363d;">
+    <img alt="Bash" height="34" src="https://skillicons.dev/icons?i=bash" />
+  </span>
+</div>
+
+
+
+<!-- <p align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,bootstrap,nodejs,django,flask,git,firebase,react,markdown,bash,powershell,express,bootstrap,dart,electron,materialui,netlify,stackoverflow,unity,visualstudio,tensorflow,sass" />
   <br>
     <img src="https://skillicons.dev/icons?i=mysql,angular,bash,vscode,ts,aws,gcp,mongodb,linux,neovim,androidstudio,flutter,gtk" />
-</p>
+</p> -->
+
+
+
 <br>
 
 
 
 <h2>🔥 &nbsp; My GitHub Stats</h2>
 
-<h3>🚀 &nbsp; GitHub Commits</h3>
+![rafay99-epic-space-shooter](https://github.com/user-attachments/assets/ef9254f3-b8a3-4606-a248-1395e53902fe)
 
-<p align="center">
-  <img src="https://github.com/rafay99-epic/rafay99-epic/assets/82662797/a9f7a33c-2e0f-4577-8d83-1ed0f7a94fe6">
-</p>
-
-
-<h3>🏆 &nbsp; Github Trophies </h3> 
-<p align="center">
-  <a href="https://github.com/rafay99-epic">
-    <img src="https://github-profile-trophy.vercel.app/?username=rafay99-epic&theme=tokyonight&row=3&column=5&margin-w=15&margin-h=15&no-bg=true" alt="rafay99-epic" />
-  </a>
-</p>
 
